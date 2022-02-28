@@ -1,0 +1,43 @@
+
+Fragmento 1
+funcion   |     valor
+hello     |      hola
+
+
+Fragmento 2
+funcion   |     valor
+hello     |      15
+
+
+Fragmento 3
+funcion   |     valor
+numPlus   |     num+15
+
+
+Fragmento 4
+funcion   |     valor
+logAndReturn   |     num
+
+Fragmento 5
+funcion   |     valor
+timesTwo   |     num*2
+
+Fragmento 6
+funcion   |     valor
+timesTwoAgaincopy |     y
+
+Fragmento 7
+funcion   |     valor
+sumNums   |     num1+num2
+
+Fragmento 8
+funcion   |     valor
+printSumNums   |     num1+num2
+
+Fragmento 9
+funcion   |     valor
+sumNums   |     sum
+
+Fragmento 9
+funcion   |     valor
+sumNums   |     sum

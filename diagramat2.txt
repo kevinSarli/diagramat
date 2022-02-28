@@ -1,0 +1,12 @@
+Fragmento 1
+var                 |     valor
+auntContactInfo     |      Paula, Smith, 1234 Main Street, St. Louis, MO, 12345
+
+Fragmento 2
+var   |     valor
+frozen     |      "brócoli", "helado",croquetas de papa
+
+
+Fragmento 3
+var   |     valor
+movielibrary     |     "Bambi", Beetlejuice, "Toy Story",zoro

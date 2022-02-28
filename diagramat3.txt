@@ -1,0 +1,28 @@
+Fragmento 1
+iteraciones   |     valor
+                     Never
+                   Going
+                     To
+                     Give
+                     You
+                     Up
+
+
+Fragmento 2
+iteraciones   |     valor
+                     2
+                   2
+                     4
+                     6
+                     12
+                     8
+                     20
+                     10
+                     30
+
+Fragmento 
+iteraciones   |     valor
+                    true
+                    true
+                    true
+                     
